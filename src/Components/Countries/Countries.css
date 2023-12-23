@@ -1,0 +1,20 @@
+
+.indivitual{
+    border: 1px solid red;
+    border-radius: 13px;
+    margin: 15px;
+    padding: 15px;
+}
+.lii{
+    background-color: khaki;
+}
+.gridItem{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 5px;
+}
+
+.buttonItem{
+    background-color: aqua;
+    border: 1px solid yellow;
+}
